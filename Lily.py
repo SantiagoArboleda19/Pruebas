@@ -1,2 +1,3 @@
 #Estoy entendiendo siuuuuuuuu
-#I'm sorry brothae
+#Me vale verga
+nombre = "PEPE"
