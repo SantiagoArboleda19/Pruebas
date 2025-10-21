@@ -1,1 +1,2 @@
-#Vamos a crear conflic
+#Vamos a crear conflicdasfdasfsafasfdsafds
+nombre = "Pedor"

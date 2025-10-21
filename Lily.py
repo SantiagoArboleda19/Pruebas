@@ -1,2 +1,2 @@
 #Estoy entendiendo siuuuuuuuu
-nombre = "PEPE"
+#I'm sorry brothae
